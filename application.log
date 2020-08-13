@@ -1,0 +1,13 @@
+2020-05-20 15:45:28,026  INFO [main] Hooks:80 - Regression Manager Loginis Failes
+2020-05-20 15:45:28,716  INFO [main] Hooks:80 - Regression Manager Loginis Failes
+2020-05-20 15:45:29,287  INFO [main] Hooks:80 - Regression Manager Loginis Failes
+2020-05-20 15:45:52,464  INFO [main] Hooks:80 - Regression Manager Addis Failes
+2020-05-20 15:45:56,524  INFO [main] Hooks:80 - Regression Manager Addis Failes
+2020-05-20 15:46:00,595  INFO [main] Hooks:80 - Regression Manager Addis Failes
+2020-05-20 15:48:14,799  INFO [main] LoginPage:30 - ************************Execute method********************************
+2020-05-20 15:48:14,892  INFO [main] LoginPage:39 - Documaker Regressions System
+2020-05-20 15:49:41,350  INFO [main] AddMRLToSuite:38 - ************************User expand VINODDUDDUKURI right tree node********************************
+2020-05-20 15:49:46,562  INFO [main] AddMRLToSuite:46 - ************************User expand VINODDUDDUKURI left tree node********************************
+2020-05-20 15:49:48,713  INFO [main] AddMRLToSuite:53 - ************************User add pdf_embed mrl from VINODDUDDUKURI left tree node to testMRL suite in VINODDUDDUKURI right tree********************************
+2020-05-20 15:51:23,126  INFO [main] RemoveMRLFromSuite:37 - ************************Expand testMrl suite under VINODDUDDUKURI right tree node********************************
+2020-05-20 15:51:33,479  INFO [main] RemoveMRLFromSuite:46 - ************************Remove pdf_embed mrl from testMrl suite available in VINODDUDDUKURI right tree ********************************
